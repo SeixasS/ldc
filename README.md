@@ -1,4 +1,5 @@
-# ldc
+# CDL Project
+
 This is a Computational Design Laboratory project named The “Ctrl+Alt+5” project. 
 It is a reflection about being human on the Anthropocene, how is our relationship
 with what surround us:the environment, the animals, and non-humans.
